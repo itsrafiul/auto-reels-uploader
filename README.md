@@ -25,14 +25,21 @@ Alternatively, you can install instagrapi directly:
 
 pip install instagrapi
 Usage
+
 Configure Your Script
+
 Add the hashtags, it will randomly select 15 hastags each time while uploading to bypass the spam detection.
+
 Update the script with your Instagram credentials.
 
 Once configured, you can run the script with:
+
 Run the Script
+
 python i2.py
+
 Troubleshooting
+
 If you encounter login or upload issues:
 
 
