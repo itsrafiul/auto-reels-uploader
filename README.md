@@ -30,6 +30,8 @@ Configure Your Script
 
 Add the hashtags, it will randomly select 15 hastags each time while uploading to bypass the spam detection.
 
+Place your all reels to /reels folder and replace it in i2.py line 28 as shown.
+
 Update the script with your Instagram credentials.
 
 Once configured, you can run the script with:
