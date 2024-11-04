@@ -12,7 +12,7 @@ This project automates the uploading of Reels to Instagram using a Python script
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/itsrafiul/auto-reels-uploader.git
-   cd instagram-reel-auto-uploader
+   cd auto-reels-uploader
    
 Install Required Libraries
 
